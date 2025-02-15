@@ -16,3 +16,7 @@ class Solution {
         return al;
     }
 }
+
+// Input: a[] = [1, 2, 3, 4, 5], b[] = [1, 2, 3, 6, 7]
+// Output: 1 2 3 4 5 6 7
+// Explanation: Distinct elements including both the arrays are: 1 2 3 4 5 6 7.
